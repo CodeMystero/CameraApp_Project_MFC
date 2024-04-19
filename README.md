@@ -12,7 +12,7 @@
 - 프로젝트 이름 : Rain
 - 프로젝트 개발기간: 2024.02.20-2024.02.25
 - 개발 툴 및 언어: MFC & OpenCV & C++
-- 멤버: 팀 신동희(송인태, 김경태, 장동혁, 강유진)
+
 
 ## 프로그램 설명
 ![image](https://github.com/dlsxo1023/CameraApp_Project_MFC/assets/149138829/be0d4580-5b66-4e31-872c-8c6d2b425e3d)
